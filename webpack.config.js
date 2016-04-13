@@ -7,7 +7,7 @@ module.exports = {
     second: './js/apps/second.js'
   },
   output: {
-    path: path.join(__dirname, 'js', 'bundles2'),
+    path: path.join(__dirname, 'js', 'bundles'),
     filename: "[name].bundle.js"
   },
   module: {
